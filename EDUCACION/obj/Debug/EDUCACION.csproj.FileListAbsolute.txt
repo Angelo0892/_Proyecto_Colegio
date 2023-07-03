@@ -1,0 +1,53 @@
+C:\Users\botsi\source\repos\EDUCACION\bin\Debug\EDUCACION.exe.config
+C:\Users\botsi\source\repos\EDUCACION\bin\Debug\EDUCACION.exe
+C:\Users\botsi\source\repos\EDUCACION\bin\Debug\EDUCACION.pdb
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.csproj.AssemblyReference.cache
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.csproj.SuggestedBindingRedirects.cache
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.Inicio1.resources
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.Inicio2.resources
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.Properties.Resources.resources
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.csproj.GenerateResource.cache
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.csproj.CoreCompileInputs.cache
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.exe
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.pdb
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.Profesor.resources
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.Alumno.resources
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.Curso.resources
+C:\Users\botsi\source\repos\EDUCACION\obj\Debug\EDUCACION.Materia.resources
+D:\Archivos Miguel\Documentos\C#\EDUCACION\bin\Debug\EDUCACION.exe.config
+D:\Archivos Miguel\Documentos\C#\EDUCACION\bin\Debug\EDUCACION.exe
+D:\Archivos Miguel\Documentos\C#\EDUCACION\bin\Debug\EDUCACION.pdb
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.csproj.AssemblyReference.cache
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.csproj.SuggestedBindingRedirects.cache
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.Alumno.resources
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.Curso.resources
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.Inicio1.resources
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.Inicio2.resources
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.Materia.resources
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.Profesor.resources
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.Properties.Resources.resources
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.csproj.GenerateResource.cache
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.csproj.CoreCompileInputs.cache
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.exe
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.pdb
+D:\Archivos Miguel\Documentos\C#\EDUCACION\obj\Debug\EDUCACION.usuarioAlumno.USUARIO_ALUM.resources
+D:\Proyecto_formativo\EDUCACION\bin\Debug\EDUCACION.exe.config
+D:\Proyecto_formativo\EDUCACION\bin\Debug\EDUCACION.exe
+D:\Proyecto_formativo\EDUCACION\bin\Debug\EDUCACION.pdb
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.csproj.AssemblyReference.cache
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.csproj.SuggestedBindingRedirects.cache
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.Alumno.resources
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.usuarioAlumno.USUARIO_ALUM.resources
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.Curso.resources
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.Inicio1.resources
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.Inicio2.resources
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.Materia.resources
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.Profesor.resources
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.Properties.Resources.resources
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.csproj.GenerateResource.cache
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.csproj.CoreCompileInputs.cache
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.exe
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.pdb
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.Crear_Actividad.resources
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.usuarioProfesor.Ver_Actividades.resources
+D:\Proyecto_formativo\EDUCACION\obj\Debug\EDUCACION.usuarioAdministrador.Registro.resources
